@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# React Typescript Samples
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project contains sample code samples of using typescript with react. Each branch corresponds to each feature and can be used to checkout sample application for corresponding features of react typescript.
 
 ## Available Scripts
+Following Features are discussed.
 
-In the project directory, you can run:
+-   Complex props including Event props
 
 ### `yarn start`
 
